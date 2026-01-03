@@ -1,8 +1,8 @@
-## Project Context
+#Project Context
 
-# Mini SQL analytics project to analyze customer value, revenue trends, and retention using cohort analysis.
+## Mini SQL analytics project to analyze customer value, revenue trends, and retention using cohort analysis.
 
-# Metrics Built
+### Metrics Built
 
 - Top customers by revenue
 
@@ -10,6 +10,7 @@
 
 - Cohort-based retention
 
-# Key Learning
+### Key Learning
 
 Learned that correct aggregation level and time arithmetic matter more than complex SQL syntax when building retention analysis.
+
